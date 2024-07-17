@@ -16,3 +16,9 @@ Based off the multiple simulations, there are many observations that can be made
 In my second simulation, I chose to find the acceptance rate in regards to gender and age. Males under 21 have a crazy acceptance rate of 83.2%, 46 year old males are second at 59.6% while every other category hovers around 50%. I did the same for gender and marital status, divorced males were found to have the highest rate at 60%, while unmarried partner females have the highest at 52.6%. Widowed males also had the lowest acceptance rate at 29.4%.
 
 Finally, I did one with gender and coffee house visits and found that males and females who visit the coffee house 4-8 times a month have the highest proportion acceptance rates at 69.0% and 68.2%. It seems like besides the people that never go to coffee houses and females who go less than 1 times a month, everyone else has an proportional acceptance rate over 50%.
+
+# Next Step/Recommendations:
+
+The next step would be to go into more detail and include variables such as time, destination, weather, and temperature.
+
+When it comes to recommendations, I feel that there are better ways to clean the data that could give a better result. 
